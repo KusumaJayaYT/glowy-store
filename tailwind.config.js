@@ -39,8 +39,6 @@ module.exports = {
       dmsans: ['DM Sans', 'sans-serif'],
     },
 
-      plugins: [
-        require("@designbycode/tailwindcss-text-stroke"),
-      ],
+      plugins: [],
     }
   }

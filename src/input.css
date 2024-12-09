@@ -7,4 +7,7 @@
   body {
     @apply text-text-primary bg-primary font-dmsans;
   }
+  .slide-nav-menu {
+    @apply translate-x-full ease-in duration-500;
+  }
 }
